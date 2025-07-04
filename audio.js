@@ -14,10 +14,10 @@ const audioMap = {
   13: "./page06.mp3", // 12~13
   14: "./page07.mp3", // 14~15 역으로 갈 때 재생
   15: "./page07.mp3", // 14~15
-  17: "./page08.mp3", // 17~18 역으로 갈 때 재생
-  18: "./page08.mp3", // 17~18 
-  17: "./page09.mp3", // 17~18 역으로 갈 때 재생
-  18: "./page09.mp3", // 17~18 
+  16: "./page08.mp3", // 17~18 역으로 갈 때 재생
+  17: "./page08.mp3", // 17~18 
+  18: "./page09.mp3", // 17~18 역으로 갈 때 재생
+  19: "./page09.mp3", // 17~18 
 };
 
 const audioPlayer = document.getElementById("page-audio");
